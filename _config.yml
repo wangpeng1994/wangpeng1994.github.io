@@ -84,3 +84,10 @@ deploy:
   # 下方的GITHUB_TOKEN会被.travis.yml中sed命令替换
   repo: https://github_token@github.com/wangpeng1994/wangpeng1994.github.io.git
   branch: master
+
+# 增加 hexo-tag-cloud
+tag_cloud:
+  textFont: Trebuchet MS, Helvetica
+  textColour: \#333
+  textHeight: 25
+  outlineColour: \#E2E1D1
