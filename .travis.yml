@@ -46,8 +46,8 @@ after_script:
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
 # https://docs.travis-ci.com/user/notifications/
-notifications:
-  email:
-    - 947034046@qq.com
-  on_success: change
-  on_failure: always
+# notifications:
+#   email:
+#     - 947034046@qq.com
+#   on_success: change
+#   on_failure: always
