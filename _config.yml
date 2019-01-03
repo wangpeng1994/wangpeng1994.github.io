@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:wangpeng1994/wangpeng1994.git
+  repo: git@github.com:wangpeng1994/wangpeng1994.github.io.git
   branch: master
   # message: 自定义提交信息
