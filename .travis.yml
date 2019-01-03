@@ -9,7 +9,7 @@ cache:
 # 指定博客源码分支，因人而异。hexo博客源码托管在独立repo则不用设置此项
 branches:
   only:
-    - master  #只监测master分支，master是我的分支的名称，可根据自己情况设置
+    - dev  #只监测dev分支，即自己的源码分支
 
 before_install:
   - npm install -g hexo-cli
