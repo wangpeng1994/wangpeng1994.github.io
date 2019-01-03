@@ -1,3 +1,4 @@
 [![Build Status](https://travis-ci.org/wangpeng1994/wangpeng1994.github.io.svg?branch=dev)](https://travis-ci.org/wangpeng1994/wangpeng1994.github.io)
 
-# hexo博客仓库，dev分支维护hexo及博客，master分支用于推送编译后的静态文件
+# 仓库介绍
+本仓库用于 hexo 搭建的博客仓库，dev 分支用于维护源码，master 分支由 Travis CI 自动构建并部署。
