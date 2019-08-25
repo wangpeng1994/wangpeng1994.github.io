@@ -36,3 +36,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+---
+
+听说 Hugo 更好用，打算有时间尝试一下。
